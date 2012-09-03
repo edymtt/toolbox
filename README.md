@@ -11,3 +11,7 @@ tomcat
 jetty
 -----
 * `jenkins.xml`: web context for Jetty 8 (defines a security realm)
+
+chromium
+--------
+* `chromium_with_pepper_flash.sh`: script to launch Chromium with Pepper Flash bundled in Google Chrome
