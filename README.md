@@ -15,3 +15,7 @@ jetty
 chromium
 --------
 * `chromium_with_pepper_flash.sh`: script to launch Chromium with Pepper Flash bundled in Google Chrome
+
+python
+------
+* `pip_upgrade.py`: python script to update the packaged managed by `pip`
