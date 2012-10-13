@@ -22,4 +22,4 @@ python
 
 osx
 ---
-* `java_7_alone_osx_10.8.sh`: bash script to create some symlinks in order to avoid Java 6 installation in OS X Mountain Lion when Java 7 is installed. For more details see [this thread on Ask Different](http://apple.stackexchange.com/questions/58203/mountain-lion-with-java-7-only)
+* `java_7_alone_osx_10.8.sh`: bash script to create some symlinks in order to avoid Java 6 installation in OS X Mountain Lion when JDK 7 is installed -- this is not work if only the runtime is installed. For more details see [this thread on Ask Different](http://apple.stackexchange.com/questions/58203/mountain-lion-with-java-7-only)
